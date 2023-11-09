@@ -230,11 +230,7 @@ else {
 // }
 
 /////////zeregiin 3 iig ol ------------------------------------------------------------->
-// function funcx3(x){
-//   return(x **= 3)
-// }
-// let input = funcx3(6)
-// console.log(input)
+
 
 /////// x bolon y iin ali ihiig function ashiglan oloh------------------------------------------------------------->
 // function too(x, y) {

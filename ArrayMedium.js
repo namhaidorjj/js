@@ -14,7 +14,7 @@ for(let w = 1; w < find.length; w++){
     if (min[w] < min){   
          min = find[w];
         }
-   if (max[w] < max){
+   if (max[w] > max){
     max = find[w]
    }
 }

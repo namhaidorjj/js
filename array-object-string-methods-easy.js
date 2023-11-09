@@ -11,3 +11,21 @@ for(let i = 0; i < unorder.length; i++){
 }
 console.log(unorder)
 //Array reverse
+var person = {
+    firstname: "Namkhaidorj",
+    lastname: "Batbaatar",
+    fullName: function() {
+        if(this.firstname && this.lastname) {
+            this.fullName = this.firstname + " " + this.lastname.toUpperCase();
+            console.log("ta buten neree oruulna uu!")
+
+        }
+    }
+}
+person.fullName();
+console.log(person.fullName)
+//Array reverse
+const array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+const reversedArray = array.reverse()
+console.log(reversedArray)
+//Sort By Frequency
