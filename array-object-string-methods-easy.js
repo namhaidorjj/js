@@ -28,4 +28,19 @@ console.log(person.fullName)
 const array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 const reversedArray = array.reverse()
 console.log(reversedArray)
-//Sort By Frequency
+//readme
+const readme = 8;
+const nuum = (1, 2, 3, 4, 8, 9, 55, 66);
+function findVariable(readme){
+    for(let a = 0; a < nuum.length; a++){
+    if(nuum[i] === readme){
+        return i;
+    } console.log
+} return null;
+} 
+const index = findVariable(readme)
+for(z = 0; z = readme.length; z++)
+    if(readme = z == readme[z])
+
+console.log(`Element ${readme} have`)
+console.log(`Element ${readme} is a ${index} in have`) 

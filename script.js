@@ -200,38 +200,14 @@ else {
 //   star += "*";
 //   console.log(star)
 // }
-// let a = prompt("heden od harmaar baina unuudur hhha")
-// let star = ("")
-// for ( i = 5; i > 0; i--){
-//   let row = ""
-//   for(p = 0; p < i; p++)
-// row += "* "
-//   console.log(row)
-// } 
-//////////////// ugsun too hurtleh niilber------------------------------------------------------------->
-// let a = prompt ("pls enter your number")
-// let sum = 0;
-// for(let i = 0; i <= a; i++){
-//   sum = sum + i;
-// }  console.log(sum)
-
-////////////ugugdsun toonii heden zereg n 1000-aas deesh baih we?------------------------------------------------------------->
-// let a = prompt("too")
-// let zereg = 0;
-// let urjver = 0;
-// if( a == 1 || a > 999){
-//  console.log('Ta 1 ees ih 1000s baga too oruulna uu')
-// }else {
-//   while(urjver <= 1000){
-//   zereg++;
-//   urjver = a ** zereg
-//   } 
-//   console.log(`${a} toonii ${zereg}n zereg n 1000s ih buyu ${urjver}bn `)
-// }
-
-/////////zeregiin 3 iig ol ------------------------------------------------------------->
-
-
+let a = 5;
+let star = ("")
+for ( i = 5; i >= 5;){
+  let row = ""
+if(row == i)
+row += "* "
+  console.log(row)
+} 
 /////// x bolon y iin ali ihiig function ashiglan oloh------------------------------------------------------------->
 // function too(x, y) {
 //   let big = 0;

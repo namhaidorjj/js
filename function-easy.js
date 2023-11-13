@@ -23,3 +23,5 @@ function entry(string) {
 }
 const string = "aabbccd";
 console.log(entry(string));
+//x -г орлуулахад гарах хариуг буцаана уу.
+

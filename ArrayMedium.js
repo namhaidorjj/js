@@ -11,11 +11,11 @@ const find = [1, 3, 5, 22, 89, 46, 17, 31, 59];
 var max = find[0];
 var min = find[0]
 for(let w = 1; w < find.length; w++){
-    if (min[w] < min){   
-         min = find[w];
-        }
-   if (max[w] > max){
+    if (find[w] > max){
     max = find[w]
+   }
+   else if (find[w] < min){   
+    min = find[w];
    }
 }
  console.log(min,max) 
