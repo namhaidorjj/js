@@ -14,4 +14,3 @@ const btn = document.getElementById("addBtn");
   
  const calculator = document.createElement("div");
  calculator.classList.add(call)
- 
