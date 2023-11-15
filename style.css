@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    margin-bottom: 10px;
+}
+#addBtn{
+    width: 100px;
+    height: 20px;
+    margin: 10px;
+}
+.call{
+    width: 50px;
+    height: 20px;
+    border-radius: 10px;
+}
